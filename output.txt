@@ -1,1 +1,1 @@
-This is not a square matrix
+This is not a zero matrix
