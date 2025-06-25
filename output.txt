@@ -1,1 +1,1 @@
-This is a row matrix
+This is not a column matrix
