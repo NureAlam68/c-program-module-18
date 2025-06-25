@@ -33,19 +33,19 @@ int main()
                     if(a[i][j] != 0)
                     {
                         is_diagonal = false;
-                        printf("This is not a primary diagonal matrix\n");
+                        printf("This is not a secondary diagonal matrix\n");
                     }
                 }
             }
         }
         if(is_diagonal == true)
         {
-            printf("This is a primary diagonal matrix\n");
+            printf("This is a secondary diagonal matrix\n");
         }
     }
     else
     {
-        printf("This is not a primary diagonal matrix\n");
+        printf("This is not a secondary diagonal matrix\n");
     }
     return 0;
 }
