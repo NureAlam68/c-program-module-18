@@ -1,1 +1,1 @@
-This is not a column matrix
+This is not a square matrix
